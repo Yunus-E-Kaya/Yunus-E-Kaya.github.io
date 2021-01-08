@@ -1,0 +1,43 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: white;
+  font-style: oblique;
+  text-align: center;
+  font-size: 60px;
+}
+
+h2{
+  color: yellow;
+  font-size: 30px;
+  font-style: oblique;
+}
+
+p.all{
+  color: white;
+  font-size: 20px;
+}
+
+li{
+  color: white;
+  font-size: 17px;
+}
+li.table{
+  color: white;
+}
+
+li a{
+  color: white;
+}
+
+li a:visited{
+  color: red;
+}
+
+ul.table{
+  border: 5px solid yellow;
+  border-radius: 15px;
+  width: 100px;
+}

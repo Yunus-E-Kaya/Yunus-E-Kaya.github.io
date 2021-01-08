@@ -1,0 +1,67 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+p.all{
+  color: yellow;
+  font-size: 21px;
+}
+
+table{
+  background-color: white;
+  border: 5px solid red;
+  border-radius: 6px;
+  border-collapse: separate;
+  margin-left: auto; margin-right: auto;
+  -moz-border-radius: 6px;
+}
+
+th{
+  color: black;
+  font-size: 40px;
+  border-top: none;
+}
+
+td:hover{
+  background-color: black;
+}
+
+td{
+  color: black;
+  font-size: 35px;
+}
+
+td:first-child, th:first-child {
+     border-left: none;
+}
+
+td, th {
+    border-left:solid black 1px;
+    border-top:solid black 1px;
+}
+
+td a:visited{
+  color: red;
+}
+li{
+  color: white;
+}
+
+li a{
+  color: white;
+}
+
+li a:visited{
+  color: red;
+}
+
+ul{
+  border: 5px solid yellow;
+  border-radius: 15px;
+  width: 100px;
+}
