@@ -49,6 +49,12 @@ p.yellow{
   color: yellow;
 }
 
+ul{
+  position: fixed;
+  top: 10px;
+  left:5px;
+}
+
 li{
   color: white;
 }
